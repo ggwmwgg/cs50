@@ -69,7 +69,7 @@ You can see the technologies used inside the README.md of each project
 		<ul>
 			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/Py_Cash" target="_blank">Cash</a></li>
 			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/Py_Readability" target="_blank">Readability</a></li>
-			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/Py_Py_Mario" target="_blank">Mario</a></li>
+			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/Py_Mario" target="_blank">Mario</a></li>
 			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/Py_DNA" target="_blank">DNA</a></li>
 		</ul>
 	<li><a href="https://github.com/ggwmwgg/cs50/tree/main/Py_WorldCup" target="_blank">Week 6 Lab (WorldCup)</a></li>
