@@ -13,8 +13,8 @@ You can see the technologies used inside the README.md of each project
   <ul>
 	<li>Week 1 Problem Set</li>
 		<ul>
-			<li><a href="https://github.com/ggwmwgg/cs50/C_Cash" target="_blank">Cash</a></li>
-			<li><a href="https://github.com/ggwmwgg/cs50/C_Mario" target="_blank">Mario</a></li>
+			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/C_Cash" target="_blank">Cash</a></li>
+			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/C_Mario" target="_blank">Mario</a></li>
 		</ul>
   </ul>  
 </details>
@@ -24,10 +24,10 @@ You can see the technologies used inside the README.md of each project
   <ul>
 	<li>Week 2 Problem Set</li>
 		<ul>
-			<li><a href="https://github.com/ggwmwgg/cs50/C_Readability" target="_blank">Readability</a></li>
-			<li><a href="https://github.com/ggwmwgg/cs50/C_Caesar" target="_blank">Caesar</a></li>
+			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/C_Readability" target="_blank">Readability</a></li>
+			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/C_Caesar" target="_blank">Caesar</a></li>
 		</ul>
-	<li><a href="https://github.com/ggwmwgg/cs50/C_Scrabble" target="_blank">Week 2 Lab (Scrabble)</a></li>
+	<li><a href="https://github.com/ggwmwgg/cs50/tree/main/C_Scrabble" target="_blank">Week 2 Lab (Scrabble)</a></li>
   </ul>  
 </details>
 <details>
@@ -36,8 +36,8 @@ You can see the technologies used inside the README.md of each project
   <ul>
 	<li>Week 3 Problem Set</li>
 		<ul>
-			<li><a href="https://github.com/ggwmwgg/cs50/C_Plurality" target="_blank">Plurality</a></li>
-			<li><a href="https://github.com/ggwmwgg/cs50/C_Runoff" target="_blank">Runoff</a></li>
+			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/C_Plurality" target="_blank">Plurality</a></li>
+			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/C_Runoff" target="_blank">Runoff</a></li>
 		</ul>
   </ul>  
 </details>
@@ -47,18 +47,18 @@ You can see the technologies used inside the README.md of each project
   <ul>
 	<li>Week 4 Problem Set</li>
 		<ul>
-			<li><a href="https://github.com/ggwmwgg/cs50/C_Recover" target="_blank">Recover</a></li>
-			<li><a href="https://github.com/ggwmwgg/cs50/C_Filter" target="_blank">Filter</a></li>
+			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/C_Recover" target="_blank">Recover</a></li>
+			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/C_Filter" target="_blank">Filter</a></li>
 		</ul>
-	<li><a href="https://github.com/ggwmwgg/cs50/C_Volume" target="_blank">Week 4 Lab (Volume)</a></li>
+	<li><a href="https://github.com/ggwmwgg/cs50/tree/main/C_Volume" target="_blank">Week 4 Lab (Volume)</a></li>
   </ul> 
 </details>
 <details>
   <summary>Week 5</summary>
   <blockquote>C Data Structures</blockquote>
   <ul>
-	<li><a href="https://github.com/ggwmwgg/cs50/C_Speller" target="_blank">Week 5 Problem Set (Speller)</a></li>
-	<li><a href="https://github.com/ggwmwgg/cs50/C_Inheritance" target="_blank">Week 5 Lab (Inheritance)</a></li>
+	<li><a href="https://github.com/ggwmwgg/cs50/tree/main/C_Speller" target="_blank">Week 5 Problem Set (Speller)</a></li>
+	<li><a href="https://github.com/ggwmwgg/cs50/tree/main/C_Inheritance" target="_blank">Week 5 Lab (Inheritance)</a></li>
   </ul> 
 </details>
 <details>
@@ -67,41 +67,41 @@ You can see the technologies used inside the README.md of each project
   <ul>
 	<li>Week 6 Problem Set</li>
 		<ul>
-			<li><a href="https://github.com/ggwmwgg/cs50/Py_Cash" target="_blank">Cash</a></li>
-			<li><a href="https://github.com/ggwmwgg/cs50/Py_Readability" target="_blank">Readability</a></li>
-			<li><a href="https://github.com/ggwmwgg/cs50/Py_Py_Mario" target="_blank">Mario</a></li>
-			<li><a href="https://github.com/ggwmwgg/cs50/Py_DNA" target="_blank">DNA</a></li>
+			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/Py_Cash" target="_blank">Cash</a></li>
+			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/Py_Readability" target="_blank">Readability</a></li>
+			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/Py_Py_Mario" target="_blank">Mario</a></li>
+			<li><a href="https://github.com/ggwmwgg/cs50/tree/main/Py_DNA" target="_blank">DNA</a></li>
 		</ul>
-	<li><a href="https://github.com/ggwmwgg/cs50/Py_WorldCup" target="_blank">Week 6 Lab (WorldCup)</a></li>
+	<li><a href="https://github.com/ggwmwgg/cs50/tree/main/Py_WorldCup" target="_blank">Week 6 Lab (WorldCup)</a></li>
   </ul> 
 </details>
 <details>
   <summary>Week 7</summary>
   <blockquote>SQL</blockquote>
   <ul>		
-	<li><a href="https://github.com/ggwmwgg/cs50/SQL_Movies" target="_blank">Week 7 Problem Set (Movies)</a></li>
+	<li><a href="https://github.com/ggwmwgg/cs50/tree/main/SQL_Movies" target="_blank">Week 7 Problem Set (Movies)</a></li>
   </ul> 
 </details>
 <details>
   <summary>Week 8</summary>
   <blockquote>HTML, CSS, JavaScript</blockquote>
   <ul>
-	<li><a href="https://github.com/ggwmwgg/cs50/HCJs_Trivia" target="_blank">Week 8 Lab (Trivia)</a></li>
+	<li><a href="https://github.com/ggwmwgg/cs50/tree/main/HCJs_Trivia" target="_blank">Week 8 Lab (Trivia)</a></li>
   </ul> 
 </details>
 <details>
   <summary>Week 9</summary>
   <blockquote>Python/Flask</blockquote>
   <ul>
-	<li><a href="https://github.com/ggwmwgg/cs50/FLSK_Finance" target="_blank">Week 9 Problem Set (Finance)</a></li>
-	<li><a href="https://github.com/ggwmwgg/cs50/FLSK_Birthdays" target="_blank">Week 9 Lab (Birthdays)</a></li>
+	<li><a href="https://github.com/ggwmwgg/cs50/tree/main/FLSK_Finance" target="_blank">Week 9 Problem Set (Finance)</a></li>
+	<li><a href="https://github.com/ggwmwgg/cs50/tree/main/FLSK_Birthdays" target="_blank">Week 9 Lab (Birthdays)</a></li>
   </ul> 
 </details>
 <details>
   <summary>Final</summary>
   <blockquote>My CS50 Final Project</blockquote>
   <ul>
-	<li><a href="https://github.com/ggwmwgg/cs50/CS50_Final" target="_blank">Final Project</a></li>
+	<li><a href="https://github.com/ggwmwgg/cs50/tree/main/CS50_Final" target="_blank">Final Project</a></li>
 	<li><a href="https://cs50.harvard.edu/certificates/1c3a5eaf-4567-4a4a-8833-f9d104dc883a" target="_blank">Certificate</a></li>
   </ul> 
 </details>
