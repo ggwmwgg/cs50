@@ -1,4 +1,5 @@
 CS50_Final/static/** linguist-vendored
+CS50_Final/static/js/** linguist-vendored
 CS50_Final/templates/** linguist-vendored
 FLSK_Finance/templates/** linguist-vendored
 FLSK_Birthdays/templates/** linguist-vendored
