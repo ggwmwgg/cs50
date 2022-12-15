@@ -1,1 +1,11 @@
 CS50_Final/static/** linguist-vendored
+CS50_Final/static/about.html -linguist-vendored
+CS50_Final/static/aboutru.html -linguist-vendored
+CS50_Final/static/c.html -linguist-vendored
+CS50_Final/static/cru.html -linguist-vendored
+CS50_Final/static/indexru.html -linguist-vendored
+CS50_Final/static/kek.html -linguist-vendored
+CS50_Final/static/layout.html -linguist-vendored
+CS50_Final/static/layoutru.html -linguist-vendored
+CS50_Final/static/portfolio.html -linguist-vendored
+CS50_Final/static/portfolioru.html -linguist-vendored
