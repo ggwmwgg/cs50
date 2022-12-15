@@ -1,11 +1,4 @@
 CS50_Final/static/** linguist-vendored
-CS50_Final/templates/about.html -linguist-vendored
-CS50_Final/templates/aboutru.html -linguist-vendored
-CS50_Final/templates/c.html -linguist-vendored
-CS50_Final/templates/cru.html -linguist-vendored
-CS50_Final/templates/indexru.html -linguist-vendored
-CS50_Final/templates/kek.html -linguist-vendored
-CS50_Final/templates/layout.html -linguist-vendored
-CS50_Final/templates/layoutru.html -linguist-vendored
-CS50_Final/templates/portfolio.html -linguist-vendored
-CS50_Final/templates/portfolioru.html -linguist-vendored
+CS50_Final/templates/** linguist-vendored
+FLSK_Finance/templates/** linguist-vendored
+FLSK_Birthdays/templates/** linguist-vendored
