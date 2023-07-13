@@ -4,7 +4,8 @@
 Program to run simulations of the FIFA World Cup.
 
 #### Technologies used:
-- *C*
+- *Python*
+- *CSV*
 
 #### Usage example
 (csv examples included in repo) 
